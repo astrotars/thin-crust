@@ -18,7 +18,7 @@ In order to run PM2, you'll need a `process.json` file that is configured to run
             "watch"       : true,
             "env": {
                 "NODE_ENV": "production",
-                "SLACK_TOKEN: "YOUR_SLACK_TOKEN"
+                "SLACK_TOKEN": "YOUR_SLACK_TOKEN"
             }
         },
         {
