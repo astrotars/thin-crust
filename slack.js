@@ -5,7 +5,7 @@ const SlackBot  = require('slackbots'),
       MongoDB   = require('mongodb').MongoClient
 
 const bot = new SlackBot({
-    token: 'xoxb-130927302930-P65kyuCUSC3ifUqLbtZZhcCj',
+    token: process.env.SLACK_TOKEN,
     name: 'Thin Crust'
 })
 
