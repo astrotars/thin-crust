@@ -7,7 +7,7 @@ For more information, please review the blog post located at: https://medium.com
 
 This example application should be deployed as three separate workers. With that said, I recommend using a process manager for Node.js such as [PM2](https://github.com/Unitech/pm2).
 
-In order to run PM2 with three workers, you'll need a process.json file that is configured properly. Below is an example:
+In order to run PM2 with three workers, you'll need a `process.json` file that is configured properly. Below is an example:
 
 ```json
 {
