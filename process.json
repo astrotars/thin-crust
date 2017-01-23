@@ -1,0 +1,28 @@
+{
+    "apps" : [
+        {
+            "name"        : "index",
+            "script"      : "./index.js",
+            "watch"       : true,
+            "env": {
+                "NODE_ENV": "production",
+            }
+        },
+        {
+            "name"        : "worker",
+            "script"      : "./worker.js",
+            "watch"       : true,
+            "env": {
+                "NODE_ENV": "production",
+            }
+        },
+        {
+            "name"        : "slack",
+            "script"      : "./slack.js",
+            "watch"       : true,
+            "env": {
+                "NODE_ENV": "production",
+            }
+        }
+    ]
+}
