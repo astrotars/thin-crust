@@ -5,7 +5,7 @@ For more information, please review the blog post located at: https://medium.com
 
 ## Application Deployment
 
-This example application can be deployed as three separate workers. That being said, I would recommend using a process manager for Node.js such as [PM2](https://github.com/Unitech/pm2).
+This example application should be deployed as three separate workers. With that said, I recommend using a process manager for Node.js such as [PM2](https://github.com/Unitech/pm2).
 
 ## Environment Variables
 
