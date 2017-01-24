@@ -1,7 +1,7 @@
 # Thin Crust
 Slack chat bot that will simulate the ordering of a pizza, and tells when your pie is ready, in addition to its location at any given time.
 
-For more information, please review the blog post located at: https://medium.com/@nparsons08.
+For more information, please review the blog post located at: http://bit.ly/2j7VcGh
 
 ## Application Deployment
 
