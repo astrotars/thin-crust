@@ -16,5 +16,5 @@ bot.on('start', function() {
 })
 
 setTimeout(function() {
-    bot.postMessageToChannel('food', `Woo! Your pizza is hot, fresh, and ready to go! I'll go ahead and keep you updated on the delivery drivers location status as soon as possible.`)
+    bot.postMessageToChannel('food', `Woo! Your pizza is hot, fresh, and ready to go! I'll go ahead and keep you updated on the delivery driver's location status as soon as possible.`)
 }, 15000)
