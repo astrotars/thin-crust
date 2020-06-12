@@ -12,7 +12,7 @@
     "assert": "^1.4.1",
     "chance": "^1.0.4",
     "mapbox": "^1.0.0-beta5",
-    "mongodb": "^2.2.21",
+    "mongodb": "^3.5.9",
     "slackbots": "^1.0.2"
   }
 }
